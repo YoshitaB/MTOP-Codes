@@ -6,13 +6,13 @@
         		
         <config default="true" name="Configuration1" category="opl">
             			
-            <ref name="MTOP ILOG MultiObjective.mod" type="model">
+            <ref name="MTOP ILOG SingleObjective.mod" type="model">
 			</ref>
             			
-            <ref name="MTOP ILOG MultiObjective.ops" type="setting">
+            <ref name="MTOP ILOG SingleObjective.ops" type="setting">
 			</ref>
             			
-            <ref name="MTOP ILOG MultiObjective.dat" type="data">
+            <ref name="MTOP ILOG SingleObjective.dat" type="data">
 			</ref>
             		
         </config>
